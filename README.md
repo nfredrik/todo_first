@@ -1,2 +1,2 @@
-# todo_first
-todo first version in memory todo
+# todo
+simple todo app
